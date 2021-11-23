@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "syscall.h": "c",
+        "console.h": "c",
+        "stdio-kernel.h": "c",
+        "stdint.h": "c",
+        "syscall-init.h": "c",
+        "stdio.h": "c",
+        "inode.h": "c",
+        "super_block.h": "c",
+        "memory.h": "c",
+        "ide.h": "c",
+        "global.h": "c",
+        "fs.h": "c",
+        "string.h": "c",
+        "type_traits": "c",
+        "thread.h": "c",
+        "shell.h": "c",
+        "print.h": "c",
+        "file.h": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "iosfwd": "c",
+        "istream": "c",
+        "limits": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "debug.h": "c"
+    }
+}
